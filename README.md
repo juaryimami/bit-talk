@@ -100,7 +100,10 @@ Your idea combines **TikTok’s engagement + food delivery convenience**, which 
 
 **Recommended Pivot:**  
 - Instead of competing directly with Talabat/Zomato, position **Bit Talk as "TikTok for Foodies + Instant Ordering"**.  
-- Focus on **user-generated content + restaurant promotions** to drive virality.  
+- Focus on **user-generated content + restaurant promotions** to drive virality.
+
+
+
 
 ###  *** Development Strategy ***
 
